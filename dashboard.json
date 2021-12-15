@@ -1,0 +1,32 @@
+{
+    "bot": {
+        "prefix": "+",
+        "id": "876016318107754506",
+        "secret": "rRhMlBqi3qo8IBP730h_iduKKbvvdb-I",
+        "token": "trying to blend ur mom"
+    },
+    "dashboard": {
+        "port": 3000,
+        "url": "https://Hydrox-exe.ranveersoni1.repl.co",
+        "callback": "https://Hydrox-exe.ranveersoni1.repl.co/callback",
+        "discord_server_ID": "917854647505518652",
+        "ownerids": ["593536295507329049", "593536295507329049"],
+        "ownershow": false,
+        "owners": [
+            {
+                "id": "593536295507329049",
+                "desc": "Onwer Of Uptimer Development"
+            },
+            {
+                "id": "622846126713995305",
+                "desc": "Co Owner Of Uptimer Development"
+            }
+        ],
+        "arc": {
+            "enabled": false,
+            "code": ""
+        }
+    },
+    "mongodb": "mongodb+srv://nemrihazem:hazemtn@cluster0.q6tsb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "discord": "https://discord.gg/PpUQxYknEY"
+}
