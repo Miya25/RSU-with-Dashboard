@@ -51,6 +51,6 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2021 [RanveerSoni](https://github.com/Miya25).
 
-This project is [RamveersoniuTLITY](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
+This project is [RanveerSoniUtility](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
 
 
