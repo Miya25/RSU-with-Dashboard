@@ -7,19 +7,19 @@
     },
     "dashboard": {
         "port": 3000,
-        "url": "https://Hydrox-exe.ranveersoni1.repl.co",
-        "callback": "https://Hydrox-exe.ranveersoni1.repl.co/callback",
+        "url": "",
+        "callback": "",
         "discord_server_ID": "917854647505518652",
         "ownerids": ["593536295507329049", "593536295507329049"],
         "ownershow": false,
         "owners": [
             {
                 "id": "593536295507329049",
-                "desc": "Onwer Of Uptimer Development"
+                "desc": "Onwer Of rsu "
             },
             {
                 "id": "622846126713995305",
-                "desc": "Co Owner Of Uptimer Development"
+                "desc": "Co Owner rsu"
             }
         ],
         "arc": {
